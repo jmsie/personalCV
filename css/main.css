@@ -49,8 +49,9 @@ PHOTO (AVATAR)
   display: inline-block;
 }
 #photo img{
-  width: 150px;
   height: 150px;
+  margin-left: -35px;
+  margin-top: 5px;
   border-radius: 50%;
 }
 #text-header h1{
